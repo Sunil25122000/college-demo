@@ -1,4 +1,7 @@
-# college-demo
-This is my First Repository.
-<br>
-Author - Sunil Swain
+# Project Name 
+Stop Watch (Timer).
+# Author 
+Sunil Swain
+
+# Guided by
+Friend 
